@@ -49,6 +49,7 @@ Regression Models and Performance Metrics
 - 10:30 - 11:30 Lunch Break
 
 - **11:30-12:15 (S.3): Ramazan Ali Bahrami**
+
 Introduction to Unsupervised Learning: Clustering with k-Means
 - 12:15-13:00 (Ex.3+B3)
 
