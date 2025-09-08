@@ -62,4 +62,12 @@ Introduction to Neural Network
 
 # Day 3- 01.10.2025
 
-To be discussed later.
+- Kate's invite 1
+
+- Kate's invite 2
+
+- Debarshi Banerjee
+
+- Baktash Amini
+
+-  All to be confirmed 
