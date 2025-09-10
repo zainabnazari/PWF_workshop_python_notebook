@@ -62,12 +62,14 @@ Introduction to Neural Network
 
 # Day 3- 01.10.2025
 
-- Kate's invite 1
+- Kate's invite 1 (To be Confirmed)
 
-- Kate's invite 2
+- Kate's invite 2 (To be Confirmed)
 
-- Debarshi Banerjee
+- Sadegh Raeisi (Confirmed)
+
+- Debarshi Banerjee (Confirmed)
 
 - Baktash Amini
 
--  All to be confirmed 
+-  All to be confirmed
