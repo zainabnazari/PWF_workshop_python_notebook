@@ -1,75 +1,104 @@
-# Schedule
-# Day 1- 29.09.2025
+# ICTP Physics Without Frontiers – Online Machine Learning Workshop  
+**Dates:** 29 September – 1 October 2025  
+**Format:** Online (via Zoom)  
+**Time Zone Reference:**  
+- **Central European Time (CET/CEST, Rome):** 07:15 – 14:30  
+- **Afghanistan Time (AFT, Kabul):** 09:45 – 17:00  
 
-### 07:15 CET  - 14:30 CET ** 09:45 AFT - 17:00 AFT (Kabul time).
-- 7:15-7:30 (opening)
+---
 
+## 📅 Schedule Overview  
 
-- **7:30 - 8:15 (S.1): Ramazan Ali Bahrami**
+### **Day 1 – Monday, 29 September 2025**  
+**Focus:** Python Foundations & Data Handling  
 
-Python basics: variables, data types, control flow (if, for, while)
-Functions and basic input/output
+- **07:15 – 07:30 | Opening Session**  
 
-- 8:15 - 8:45-9:00 (Ex.1+B1)
+- **07:30 – 08:15 (S.1) | Ramazan Ali Bahrami**  
+  *Python Basics:* variables, data types, control flow (if, for, while), functions, and basic input/output  
 
+- **08:15 – 09:00 | Exercises + Breakout (Ex.1 + B1)**  
 
-- **9:00-9:45 (S.2): Carl Stermann-Lücke**
+- **09:00 – 09:45 (S.2) | Carl Stermann-Lücke**  
+  *Working with Data:* NumPy and Pandas  
 
-Working with Data using NumPy & Pandas
-- 9:45-10:30 (Ex.2+B2)
+- **09:45 – 10:30 | Exercises + Breakout (Ex.2 + B2)**  
 
-- 10:30 - 11:30 Lunch Break
+- **10:30 – 11:30 | Lunch Break**  
 
+- **11:30 – 12:15 (S.3) | Mohammad Eqbal Balaghi**  
+  *Data Visualization:* Matplotlib & Seaborn  
 
-- **11:30-12:15 (S.3): Mohammad Eqbal Balaghi**
+- **12:15 – 13:00 | Exercises + Breakout (Ex.3 + B3)**  
 
-Data Visualization with Matplotlib & Seaborn
-- 12:15-13:00 (Ex.3+B3)
+- **13:00 – 13:45 (S.4) | Anirban Roy**  
+  *Introduction to Machine Learning with Scikit-learn*  
 
+- **13:45 – 14:30 | Exercises + Breakout (Ex.4 + B4)**  
 
-- **13:00-13:45 (S.4): Anirban Roy**
+---
 
- Introduction to Scikit-learn and Machine Learning Concepts
-- 13:45 - 14:30 (Ex.4+B4)
+### **Day 2 – Tuesday, 30 September 2025**  
+**Focus:** Machine Learning Fundamentals  
 
+- **07:30 – 08:15 (S.1) | Zainab Nazari**  
+  *Supervised Learning:* Classification with k-NN and Decision Trees  
 
-# Day 2- 30.09.2025
+- **08:15 – 09:00 | Exercises + Breakout (Ex.1 + B1)**  
 
+- **09:00 – 09:45 (S.2) | Baktash Amini**  
+  *Regression Models and Performance Metrics*  
 
-- **7:30 - 8:15 (S.1): Zainab Nazari**
+- **09:45 – 10:30 | Exercises + Breakout (Ex.2 + B2)**  
 
-Supervised Learning: Classification with k-NN and Decision Trees
-- 8:15 - 8:45-9:00 (Ex.1+B1)
+- **10:30 – 11:30 | Lunch Break**  
 
-- **9:00-9:45 (S.2): Baktash Amini**
+- **11:30 – 12:15 (S.3) | Ramazan Ali Bahrami**  
+  *Unsupervised Learning:* Clustering with k-Means  
 
-Regression Models and Performance Metrics
-- 9:45-10:30 (Ex.2+B2)
+- **12:15 – 13:00 | Exercises + Breakout (Ex.3 + B3)**  
 
-- 10:30 - 11:30 Lunch Break
+- **13:00 – 13:45 (S.4) | Layla Kalhor**  
+  *Introduction to Neural Networks*  
 
-- **11:30-12:15 (S.3): Ramazan Ali Bahrami**
+- **13:45 – 14:30 | Exercises + Breakout (Ex.4 + B4)**  
 
-Introduction to Unsupervised Learning: Clustering with k-Means
-- 12:15-13:00 (Ex.3+B3)
+---
 
-- **13:00-13:45 (S.4): Layla Kalhor**
+### **Day 3 – Wednesday, 1 October 2025**  
+**Focus:** Applications of ML in Physics & Beyond  
 
-Introduction to Neural Network
-- 13:45 - 14:30 (Ex.4+B4)
+- **07:30 – 08:30 | Speaker 1 (TBA)**  
 
+- **08:45 – 09:45 | Baktash Amini (To be confirmed)**  
+  *Machine Learning in Particle Physics*  
 
+- **10:00 – 11:00 | Guest Speaker (Invite by Kate, TBC)**  
 
-# Day 3- 01.10.2025
+- **11:15 – 12:15 | Guest Speaker (Invite by Kate, TBC)**  
 
-- Kate's invite 1 (To be Confirmed)
+- **13:00 – 14:00 | Sadegh Raeisi (Confirmed)**  
+  *Application of ML in Physics*  
 
-- Kate's invite 2 (To be Confirmed)
+- **14:15 – 15:15 | Debarshi Banerjee (Confirmed)**  
+  *Application of ML in Physics*  
 
-- Sadegh Raeisi (Confirmed)
+---
 
-- Debarshi Banerjee (Confirmed)
+## 📝 Notes for Speakers & Contributors  
 
-- Baktash Amini
+- Each lecture should be designed for:  
+  - **45 minutes of teaching**  
+  - **30 minutes of guided exercises + 15 minutes breakout**  
+  - (Optional) **Self-study extension** for participants to continue learning after the workshop  
 
--  All to be confirmed
+- Please ensure your materials are uploaded via **GitHub branch + merge request** by **15 September 2025**.  
+
+- If you know additional potential speakers for **Day 3 (ML applications in physics or general ML)**, please share their details with the organizers.  
+
+---
+
+## 🙏 Acknowledgements  
+This workshop is organized under the **ICTP Physics Without Frontiers program** with contributions from dedicated volunteers and researchers. Our goal is to provide accessible training in Python, machine learning, and their applications to physics for students in Afghanistan.  
+
+---
