@@ -68,16 +68,18 @@
 ### **Day 3 – Wednesday, 1 October 2025**  
 **Focus:** Applications of ML in Physics & Beyond  
 
-- **07:30 – 08:30 |Baktash Amini ? (To be confirmed ?) **
+- **07:30 – 08:30 | Baktash Amini ? (To be confirmed ?)**
   *Machine Learning in Particle Physics*   
 
 - **08:45 – 09:45 | Guest Speaker (Invite by Kate, TBC)**
-*TBA*
+  *TBA*
 
 - **10:00 – 11:00 | Guest Speaker (Invite by Kate, TBC)**  
-*TBA*
+  *TBA*
+
 - **11:15 – 12:15 | Nayara Fonseca (Confirmed)**  
-*TBA*
+  *TBA*
+
 - **13:00 – 14:00 | Sadegh Raeisi (Confirmed)**  
   *Application of ML in Physics*  
 
