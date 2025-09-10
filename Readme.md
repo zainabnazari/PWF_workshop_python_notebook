@@ -69,12 +69,15 @@
 **Focus:** Applications of ML in Physics & Beyond  
 
 - **07:30 – 08:30 | Baktash Amini  (To be confirmed )**
+
   *Machine Learning in Particle Physics*   
 
 - **08:45 – 09:45 | Guest Speaker (Invite by Kate, TBC)**
+
   *TBA*
 
-- **10:00 – 11:00 | Guest Speaker (Invite by Kate, TBC)**  
+- **10:00 – 11:00 | Guest Speaker (Invite by Kate, TBC)**
+ 
   *TBA*
 
 - **11:15 – 12:15 | Nayara Fonseca (Confirmed)**  
