@@ -76,8 +76,8 @@
 
   *TBA*
 
-- **10:00 – 11:00 | Guest Speaker (Invite by Kate, TBC)**
- 
+- **10:00 – 11:00 | Stephen Serjeant(Confirmed))**
+
   *TBA*
 
 - **11:15 – 12:15 | Nayara Fonseca (Confirmed)**  
@@ -87,7 +87,7 @@
   *Application of ML in Physics*  
 
 - **14:15 – 15:15 | Debarshi Banerjee (Confirmed)**  
-  *Application of ML in Physics*  
+  *An Unsupervised Learning Approach to Infer Causality in Molecular Systems*  
 
 ---
 
