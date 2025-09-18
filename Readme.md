@@ -68,11 +68,9 @@
 ### **Day 3 – Wednesday, 1 October 2025**  
 **Focus:** Applications of ML in Physics & Beyond  
 
-- **07:30 – 08:30 | Baktash Amini  (To be confirmed )**
 
-  *Machine Learning in Particle Physics*   
 
-- **08:45 – 09:45 | Guest Speaker (Invite by Kate, TBC)**
+- **08:45 – 09:45 | Thomas Stevenson (TBC)**
 
   *TBA*
 
