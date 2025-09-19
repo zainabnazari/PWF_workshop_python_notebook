@@ -69,8 +69,8 @@
 **Focus:** Applications of ML in Physics & Beyond  
 
 
-
-- **08:45 – 09:45 | Thomas Stevenson (TBC)**
+- **07:30 – 08:30 | Baktash Amini? (TBC)**
+- **08:45 – 09:45 | Thomas Stevenson (Confirmed)**
 
   *TBA*
 
@@ -84,8 +84,8 @@
 - **13:00 – 14:00 | Sadegh Raeisi (Confirmed)**  
   *Application of ML in Physics*  
 
-- **14:15 – 15:15 | Debarshi Banerjee (Confirmed)**  
-  *An Unsupervised Learning Approach to Infer Causality in Molecular Systems*  
+- **14:15 – 15:15 | Sultan Hassan(Confirmed)**  
+  *Computational Astrophysics Cosmology Machine Learning Bayesian*  
 
 ---
 
@@ -98,11 +98,11 @@
 
 - Please ensure your materials are uploaded via **GitHub branch + merge request** by **15 September 2025**.  
 
-- If you know additional potential speakers for **Day 3 (ML applications in physics or general ML)**, please share their details with the organizers.  
+
 
 ---
 
 ## 🙏 Acknowledgements  
 This workshop is organized under the **ICTP Physics Without Frontiers program** with contributions from dedicated volunteers and researchers. Our goal is to provide accessible training in Python, machine learning, and their applications to physics for students in Afghanistan.  
-
+Any questions please write to nazari.zainab@gmail.com.
 ---
