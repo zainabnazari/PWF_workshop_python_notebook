@@ -71,7 +71,7 @@
 
 - **07:30 – 08:30 | Leila Kalhor (Confirmed)**
 
- *AI Meets the Dark Universes*
+ *AI Meets the Dark Universe*
 
 - **08:45 – 09:45 | Thomas Stevenson (Confirmed)**
 
