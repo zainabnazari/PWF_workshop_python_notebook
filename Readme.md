@@ -66,25 +66,25 @@
 ---
 
 ### **Day 3 – Wednesday, 1 October 2025**  
-**Focus:** Applications of ML in Physics & Beyond  
+**Focus:** Applications of ML in Physics 
 
 
-- **07:30 – 08:30 | Leila Kalhor: Talk in Farsi (Confirmed)**
+- **In Farsi: 07:30 – 08:30 | Leila Kalhor (Confirmed)**
 
  *AI Meets the Dark Universe*
 
-- **08:45 – 09:45 | Thomas Stevenson: Talk in English (Confirmed)**
+- **In English: 08:45 – 09:45 | Thomas Stevenson (Confirmed)**
 
   *TBA*
 
-- **10:00 – 11:00 | Stephen Serjeant: Talk in English (Confirmed))**
+- **In English: 10:00 – 11:00 | Stephen Serjeant (Confirmed))**
 
   *TBA*
 
-- **11:15 – 12:15 | Nayara Fonseca: Talk in English (Confirmed)**  
+- **In English: 11:15 – 12:15 | Nayara Fonseca (Confirmed)**  
   *TBA*
 
-- **13:00 – 14:00 | Sadegh Raeisi: Talk in Farsi (Confirmed)**  
+- **In Farsi: 13:00 – 14:00 | Sadegh Raeisi (Confirmed)**  
   *Application of ML in Physics*  
 
 - **14:15 – 15:15 | Sultan Hassan(Confirmed)**  
