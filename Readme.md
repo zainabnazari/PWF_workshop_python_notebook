@@ -69,22 +69,22 @@
 **Focus:** Applications of ML in Physics & Beyond  
 
 
-- **07:30 – 08:30 | Leila Kalhor (Confirmed)**
+- **07:30 – 08:30 | Leila Kalhor: Talk in Farsi (Confirmed)**
 
  *AI Meets the Dark Universe*
 
-- **08:45 – 09:45 | Thomas Stevenson (Confirmed)**
+- **08:45 – 09:45 | Thomas Stevenson: Talk in English (Confirmed)**
 
   *TBA*
 
-- **10:00 – 11:00 | Stephen Serjeant(Confirmed))**
+- **10:00 – 11:00 | Stephen Serjeant: Talk in English (Confirmed))**
 
   *TBA*
 
-- **11:15 – 12:15 | Nayara Fonseca (Confirmed)**  
+- **11:15 – 12:15 | Nayara Fonseca: Talk in English (Confirmed)**  
   *TBA*
 
-- **13:00 – 14:00 | Sadegh Raeisi (Confirmed)**  
+- **13:00 – 14:00 | Sadegh Raeisi: Talk in Farsi (Confirmed)**  
   *Application of ML in Physics*  
 
 - **14:15 – 15:15 | Sultan Hassan(Confirmed)**  
