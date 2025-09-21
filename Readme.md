@@ -87,7 +87,7 @@
 - **In Farsi: 13:00 – 14:00 | Sadegh Raeisi (Confirmed)**  
   *Application of ML in Physics*  
 
-- **In English: 14:15 – 15:15 | Sultan Hassan(Confirmed)**  
+- **In English: 14:15 – 15:15 | Sultan Hassan (Confirmed)**  
   *Computational Astrophysics Cosmology Machine Learning Bayesian*  
 
 
