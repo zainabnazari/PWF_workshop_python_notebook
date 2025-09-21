@@ -69,7 +69,9 @@
 **Focus:** Applications of ML in Physics & Beyond  
 
 
-- **07:30 – 08:30 | Baktash Amini? (TBC)**
+- **07:30 – 08:30 | Leila Kalhor (TBC)**
+
+ *TBA*
 - **08:45 – 09:45 | Thomas Stevenson (Confirmed)**
 
   *TBA*
@@ -87,23 +89,12 @@
 - **14:15 – 15:15 | Sultan Hassan(Confirmed)**  
   *Computational Astrophysics Cosmology Machine Learning Bayesian*  
 
----
-
-## 📝 Notes for Speakers & Contributors  
-
-- Each lecture should be designed for:  
-  - **45 minutes of teaching**  
-  - **30 minutes of guided exercises + 15 minutes breakout**  
-  - (Optional) **Self-study extension** for participants to continue learning after the workshop  
-
-- Please ensure your materials are uploaded via **GitHub branch + merge request** by **15 September 2025**.  
-
 
 
 ---
 
 ## 🙏 Acknowledgements
- 
+
 This workshop is organized under the **ICTP Physics Without Frontiers program** with contributions from dedicated volunteers and researchers. Our goal is to provide accessible training in Python, machine learning, and their applications to physics for students in Afghanistan.  
 Any questions please write to nazari.zainab@gmail.com.
 ---
