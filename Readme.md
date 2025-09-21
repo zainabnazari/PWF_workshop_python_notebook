@@ -66,7 +66,7 @@
 ---
 
 ### **Day 3 – Wednesday, 1 October 2025**  
-**Focus:** Applications of ML in Physics 
+**Focus:** Applications of ML in Physics
 
 
 - **In Farsi: 07:30 – 08:30 | Leila Kalhor (Confirmed)**
@@ -87,7 +87,7 @@
 - **In Farsi: 13:00 – 14:00 | Sadegh Raeisi (Confirmed)**  
   *Application of ML in Physics*  
 
-- **14:15 – 15:15 | Sultan Hassan(Confirmed)**  
+- **In English: 14:15 – 15:15 | Sultan Hassan(Confirmed)**  
   *Computational Astrophysics Cosmology Machine Learning Bayesian*  
 
 
