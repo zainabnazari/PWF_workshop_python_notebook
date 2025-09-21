@@ -69,9 +69,10 @@
 **Focus:** Applications of ML in Physics & Beyond  
 
 
-- **07:30 – 08:30 | Leila Kalhor (TBC)**
+- **07:30 – 08:30 | Leila Kalhor (Confirmed)**
 
- *TBA*
+ *AI Meets the Dark Universe *
+ 
 - **08:45 – 09:45 | Thomas Stevenson (Confirmed)**
 
   *TBA*
