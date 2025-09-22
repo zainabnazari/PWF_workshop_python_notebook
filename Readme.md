@@ -29,7 +29,7 @@ This repository contains the foundational materials, code examples, and exercise
 
 **Focus:** Core Machine Learning Concepts
 
-| Time (CET/CEST) | Speaker | Topic | Language | Notebook |
+| Time (CET/CEST) | Speaker | Topic | Language | Slides |
 | ----- | ----- | ----- | ----- | ----- |
 | 07:30 – 08:15 | Zainab Nazari | **Session 1:** Supervised Learning: A Practical Approach to Classification with k-NN and Decision Trees | Farsi | [Notebook](https://github.com/zainabnazari/PWF_workshop_python_notebook/blob/main/Day2/Day2-Session1.ipynb) |
 | 08:15 – 09:00 | | Exercises & Breakout Session 1 | Farsi | - |
