@@ -12,7 +12,7 @@ This repository contains the foundational materials, code examples, and exercise
 
 **Focus:** Foundational Programming and Data Handling
 
-| Time (CET/CEST) | Speaker | Topic | Language | Notebook |
+| Time (CET/CEST) | Lecturer | Topic | Language | Notebook |
 | ----- | ----- | ----- | ----- | ----- |
 | 07:15 – 07:30 | Opening Session | Welcome and Workshop Overview | Farsi/English | - |
 | 07:30 – 08:15 | Ramazan Ali Bahrami | **Session 1:** Fundamentals of Python Programming | Farsi | [Notebook](https://github.com/zainabnazari/PWF_workshop_python_notebook/blob/main/Day1/Day1-Session1.ipynb) |
@@ -29,7 +29,7 @@ This repository contains the foundational materials, code examples, and exercise
 
 **Focus:** Core Machine Learning Concepts
 
-| Time (CET/CEST) | Speaker | Topic | Language | Notebook |
+| Time (CET/CEST) | Lecturer | Topic | Language | Notebook |
 | ----- | ----- | ----- | ----- | ----- |
 | 07:30 – 08:15 | Zainab Nazari | **Session 1:** Supervised Learning: A Practical Approach to Classification with k-NN and Decision Trees | Farsi | [Notebook](https://github.com/zainabnazari/PWF_workshop_python_notebook/blob/main/Day2/Day2-Session1.ipynb) |
 | 08:15 – 09:00 | | Exercises & Breakout  | Farsi | - |
