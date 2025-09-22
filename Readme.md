@@ -1,4 +1,5 @@
 ![Python](https://img.shields.io/badge/python-3.7-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
 # ICTP Physics Without Frontiers – Online Machine Learning Workshop  
 **Dates:** 29 September – 1 October 2025  
 **Format:** Online (via Zoom)  
