@@ -30,8 +30,8 @@ You can run all notebooks directly in **Google Colab** without installing anythi
 | 07:15 – 07:30 | Opening Session | Welcome and Workshop Overview | Farsi/English | - |
 | 07:30 – 08:15 | [Ramazan Ali Bahrami](https://scholar.google.com/citations?user=O0phq90AAAAJ&hl=en) | Fundamentals of Python Programming | Farsi | [![Open Notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zainabnazari/PWF_workshop_python_notebook/blob/main/Day1/Day1-Session1.ipynb) |
 | 08:15 – 09:00 | | Exercises & Breakout | Farsi | - |
-| 09:00 – 09:45 | [Carl Stermann-Lücke](https://www.linkedin.com/in/carl-stermann-l%C3%BCcke/) | Essential Libraries for Data Manipulation and Analysis with NumPy and Pandas | English | [![Open Notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zainabnazari/PWF_workshop_python_notebook/blob/main/Day1/Day1-Session2.ipynb) |
-| 09:45 – 10:30 | | Exercises & Breakout | English | - |
+| 09:00 – 09:45 | [Carl Stermann-Lücke](https://www.linkedin.com/in/carl-stermann-l%C3%BCcke/), [Leila Kalhor](https://scholar.google.com/citations?user=7guc7bAAAAAJ) | Essential Libraries for Data Manipulation and Analysis with NumPy and Pandas | Farsi | [![Open Notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zainabnazari/PWF_workshop_python_notebook/blob/main/Day1/Day1-Session2.ipynb) |
+| 09:45 – 10:30 | | Exercises & Breakout | Farsi | - |
 | 10:30 – 11:30 | | **Lunch Break** | - | - |
 | 11:30 – 12:15 | [Mohammad Eqbal Balaghi](https://www.linkedin.com/in/mohammad-eqbal-balaghi/?originalSubdomain=it) | Principles of Data Visualization with Matplotlib and Seaborn | Farsi | [![Open Notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zainabnazari/PWF_workshop_python_notebook/blob/main/Day1/Day1-Session3.ipynb) |
 | 12:15 – 13:00 | | Exercises & Breakout | Farsi | - |
