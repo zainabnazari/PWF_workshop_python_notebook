@@ -97,7 +97,5 @@
 ---
 
 ## 🙏 Acknowledgements
-
 This workshop is organized under the **ICTP Physics Without Frontiers program** with contributions from dedicated volunteers and researchers. Our goal is to provide accessible training in Python, machine learning, and their applications to physics for students in Afghanistan.  
 Any questions please write to nazari.zainab@gmail.com.
----
