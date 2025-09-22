@@ -14,7 +14,7 @@ The program is designed to provide students with a comprehensive introduction to
 
 You can run all notebooks directly in **Google Colab** without installing anything locally.  
 
-👉 Simply click the **“Open Notebook in Colab”** button next to each session in the schedule below.  
+👉 Simply click the **“Open in Colab”** button next to each session in the schedule below.  
 
 ---
 
