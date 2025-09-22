@@ -35,7 +35,7 @@ You can run all notebooks directly in **Google Colab** without installing anythi
 | 10:30 – 11:30 | | **Lunch Break** | - | - |
 | 11:30 – 12:15 | [Mohammad Eqbal Balaghi](https://www.linkedin.com/in/mohammad-eqbal-balaghi/?originalSubdomain=it) | Principles of Data Visualization with Matplotlib and Seaborn | Farsi | [![Open Notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zainabnazari/PWF_workshop_python_notebook/blob/main/Day1/Day1-Session3.ipynb) |
 | 12:15 – 13:00 | | Exercises & Breakout | Farsi | - |
-| 13:00 – 13:45 | [Anirban Roy](https://www.linkedin.com/in/anirban-roy-2000) | An Introduction to Machine Learning with Scikit-learn | English | [![Open Notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zainabnazari/PWF_workshop_python_notebook/blob/main/Day1/Day1-Session4.ipynb) |
+| 13:00 – 13:45 | [Anirban Roy](https://anirbanroy.in/) | An Introduction to Machine Learning with Scikit-learn | English | [![Open Notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zainabnazari/PWF_workshop_python_notebook/blob/main/Day1/Day1-Session4.ipynb) |
 | 13:45 – 14:30 | | Exercises & Breakout | English | - |
 
 ---
