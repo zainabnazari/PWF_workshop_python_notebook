@@ -62,7 +62,7 @@ You can run all notebooks directly in **Google Colab** without installing anythi
 
 | Time (CET/CEST) | Speaker | Topic | Language | Slides |
 | ----- | ----- | ----- | ----- | ----- |
-| 07:30 – 08:30 | [Leila Kalhor](https://scholar.google.com/citations?user=7guc7bAAAAAJ) | AI Meets the Dark Universe | Farsi | [Slide](URL) |
+| 07:30 – 08:30 | [Leila Kalhor](https://scholar.google.com/citations?user=TA5ccTEAAAAJ&hl=en) | AI Meets the Dark Universe | Farsi | [Slide](URL) |
 | 08:45 – 09:45 | [Thomas Stevenson](https://profiles.sussex.ac.uk/p452244-thomas-stevenson) | Particle Physics (Title TBA) | English | [Slide](URL) |
 | 10:00 – 11:00 | [Stephen Serjeant](https://stephenserjeant.github.io/) | Topic TBA | English | [Slide](URL) |
 | 11:15 – 12:15 | [Nayara Fonseca](https://www.nayarafonseca.com/) | Topic TBA | English | [Slide](URL) |
