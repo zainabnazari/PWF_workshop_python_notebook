@@ -68,7 +68,7 @@ You can run all notebooks directly in **Google Colab** without installing anythi
 | 11:15 – 12:15 | [Nayara Fonseca](https://www.nayarafonseca.com/) | Topic TBA | English | [Slide](URL) |
 | 12:15 – 13:00 | | **Lunch Break** | - | - |
 | 13:00 – 14:00 | [Sadegh Raeisi](https://sharif.edu/~sraeisi/) | Applications of Machine Learning in Physics | Farsi | [Slide](URL) |
-| 14:15 – 15:15 | [Sultan Hassan](https://cosmo.phy.syr.edu/hassan.html) | Computational Astrophysics, Cosmology, Machine Learning, and Bayesian Methods (Title TBA) | English | [Slide](URL) |
+| 14:15 – 15:15 | [Sultan Hassan](https://sultan-hassan.github.io/) | Computational Astrophysics, Cosmology, Machine Learning, and Bayesian Methods (Title TBA) | English | [Slide](URL) |
 
 ---
 
