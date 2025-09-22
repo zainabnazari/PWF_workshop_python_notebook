@@ -18,7 +18,7 @@ You can run all notebooks directly in **Google Colab** without installing anythi
 
 ---
 
-## 📅 Workshop Schedule  
+## Workshop Schedule  
 
 ---
 
@@ -72,7 +72,7 @@ You can run all notebooks directly in **Google Colab** without installing anythi
 
 ---
 
-## 🙏 Acknowledgements  
+##  Acknowledgements  
 
 This workshop is a collaborative initiative organized under the **ICTP Physics Without Frontiers** program.  
 
@@ -80,4 +80,4 @@ We extend our sincere gratitude to all invited speakers and dedicated volunteers
 
 This program is dedicated to **empowering students in Afghanistan** with accessible training in Python, machine learning, and their applications in Physics.  
 
-📧 For any inquiries, please contact **Dr. Zainab Nazari** at `nazari.zainab@gmail.com`.  
+ For any inquiries, please contact **Dr. Zainab Nazari** at `nazari.zainab@gmail.com`.  
