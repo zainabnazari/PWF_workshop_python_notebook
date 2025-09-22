@@ -36,7 +36,7 @@ This repository contains the foundational materials, code examples, and exercise
 | 09:00 – 09:45 | Baktash Amini | **Session 2:** Regression Models and Evaluation Metrics | Farsi |
 | 09:45 – 10:30 | | Exercises & Breakout Session 2 | Farsi |
 | 10:30 – 11:30 | | **Lunch Break** | - |
-| 11:30 – 12:15 | Ramazan Ali Bahrami | **Session 3:** Unsupervised Learning: Clustering with k-Means | English |
+| 11:30 – 12:15 | Ramazan Ali Bahrami | **Session 3:** Unsupervised Learning: Clustering with k-Means | Farsi |
 | 12:15 – 13:00 | | Exercises & Breakout Session 3 | Farsi |
 | 13:00 – 13:45 | Leila Kalhor | **Session 4:** Introduction to Neural Networks | Farsi |
 | 13:45 – 14:30 | | Exercises & Breakout Session 4 | Farsi |
