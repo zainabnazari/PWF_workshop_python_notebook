@@ -80,4 +80,4 @@ We extend our sincere gratitude to all invited speakers and dedicated volunteers
 
 This program is dedicated to **empowering students in Afghanistan** with accessible training in Python, machine learning, and their applications in Physics.  
 
-For any inquiries, please contact ** Zainab Nazari** at `nazari.zainab@gmail.com`.  
+For any inquiries, please contact **Zainab Nazari** at `nazari.zainab@gmail.com`.  
