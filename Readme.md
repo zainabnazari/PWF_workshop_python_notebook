@@ -1,3 +1,4 @@
+![Python](https://img.shields.io/badge/python-3.11-blue)
 # ICTP Physics Without Frontiers – Online Machine Learning Workshop  
 **Dates:** 29 September – 1 October 2025  
 **Format:** Online (via Zoom)  
@@ -75,7 +76,7 @@
 
 - **In English: 08:45 – 09:45 | Thomas Stevenson (Confirmed)**
 
-  *TBA*
+  *TBA, Particle Physics*
 
 - **In English: 10:00 – 11:00 | Stephen Serjeant (Confirmed))**
 
@@ -88,7 +89,7 @@
   *Application of ML in Physics*  
 
 - **In English: 14:15 – 15:15 | Sultan Hassan (Confirmed)**  
-  *Computational Astrophysics Cosmology Machine Learning Bayesian*  
+  *TBA, Computational Astrophysics Cosmology Machine Learning Bayesian*  
 
 
 
