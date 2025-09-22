@@ -12,9 +12,9 @@
 
 **📅 Dates:** 29 September – 1 October 2025  
 **💻 Format:** Online (via Zoom)  
-**⏰ Time Zones:**  
-- **CET/CEST (Rome):** 07:15 – 14:30  
-- **AFT (Kabul):** 09:45 – 17:00  
+**⏰ Time Zone Reference:**  
+- **Central European Time (CET/CEST, Rome):** 07:15 – 14:30  
+- **Afghanistan Time (AFT, Kabul):** 09:45 – 17:00  
 
 ---
 
@@ -23,78 +23,79 @@
 ### **Day 1 – Monday, 29 September 2025**  
 **Focus:** Python Foundations & Data Handling  
 
-<div style="background-color:#E0F7FA; padding:12px; border-radius:6px; margin-bottom:10px;">
-<strong>🕒 07:15 – 07:30 | Opening Session</strong>
-</div>
+- **07:15 – 07:30 | Opening Session**  
 
-<div style="background-color:#FFF3E0; padding:12px; border-radius:6px; margin-bottom:10px;">
-<strong>🕒 07:30 – 08:15 | S.1 | Ramazan Ali Bahrami</strong><br>
-<em>Python Basics:</em> variables, data types, control flow (if, for, while), functions, and basic input/output
-</div>
+- **07:30 – 08:15 (S.1) | Ramazan Ali Bahrami**  
+  *Python Basics:* variables, data types, control flow (if, for, while), functions, and basic input/output  
 
-<div style="background-color:#E8F5E9; padding:12px; border-radius:6px; margin-bottom:10px;">
-<strong>🕒 08:15 – 09:00 | Exercises + Breakout (Ex.1 + B1)</strong>
-</div>
+- **08:15 – 09:00 | Exercises + Breakout (Ex.1 + B1)**  
 
-<div style="background-color:#FFF3E0; padding:12px; border-radius:6px; margin-bottom:10px;">
-<strong>🕒 09:00 – 09:45 | S.2 | Carl Stermann-Lücke</strong><br>
-<em>Working with Data:</em> NumPy and Pandas
-</div>
+- **09:00 – 09:45 (S.2) | Carl Stermann-Lücke**  
+  *Working with Data:* NumPy and Pandas  
 
-<div style="background-color:#E8F5E9; padding:12px; border-radius:6px; margin-bottom:10px;">
-<strong>🕒 09:45 – 10:30 | Exercises + Breakout (Ex.2 + B2)</strong>
-</div>
+- **09:45 – 10:30 | Exercises + Breakout (Ex.2 + B2)**  
 
-<div style="background-color:#FFFDE7; padding:12px; border-radius:6px; margin-bottom:10px;">
-<strong>🕒 10:30 – 11:30 | Lunch Break</strong>
-</div>
+- **10:30 – 11:30 | Lunch Break**  
 
-<div style="background-color:#FFF3E0; padding:12px; border-radius:6px; margin-bottom:10px;">
-<strong>🕒 11:30 – 12:15 | S.3 | Mohammad Eqbal Balaghi</strong><br>
-<em>Data Visualization:</em> Matplotlib & Seaborn
-</div>
+- **11:30 – 12:15 (S.3) | Mohammad Eqbal Balaghi**  
+  *Data Visualization:* Matplotlib & Seaborn  
 
-<div style="background-color:#E8F5E9; padding:12px; border-radius:6px; margin-bottom:10px;">
-<strong>🕒 12:15 – 13:00 | Exercises + Breakout (Ex.3 + B3)</strong>
-</div>
+- **12:15 – 13:00 | Exercises + Breakout (Ex.3 + B3)**  
 
-<div style="background-color:#FFF3E0; padding:12px; border-radius:6px; margin-bottom:10px;">
-<strong>🕒 13:00 – 13:45 | S.4 | Anirban Roy</strong><br>
-<em>Introduction to Machine Learning with Scikit-learn</em>
-</div>
+- **13:00 – 13:45 (S.4) | Anirban Roy**  
+  *Introduction to Machine Learning with Scikit-learn*  
 
-<div style="background-color:#E8F5E9; padding:12px; border-radius:6px; margin-bottom:10px;">
-<strong>🕒 13:45 – 14:30 | Exercises + Breakout (Ex.4 + B4)</strong>
-</div>
+- **13:45 – 14:30 | Exercises + Breakout (Ex.4 + B4)**  
 
 ---
 
 ### **Day 2 – Tuesday, 30 September 2025**  
 **Focus:** Machine Learning Fundamentals  
 
-<div style="background-color:#E0F7FA; padding:12px; border-radius:6px; margin-bottom:10px;">
-<strong>🕒 07:30 – 08:15 | S.1 | Zainab Nazari</strong><br>
-<em>Supervised Learning:</em> Classification with k-NN and Decision Trees
-</div>
+- **07:30 – 08:15 (S.1) | Zainab Nazari**  
+  *Supervised Learning:* Classification with k-NN and Decision Trees  
 
-<div style="background-color:#FFF3E0; padding:12px; border-radius:6px; margin-bottom:10px;">
-<strong>🕒 08:15 – 09:00 | Exercises + Breakout (Ex.1 + B1)</strong>
-</div>
+- **08:15 – 09:00 | Exercises + Breakout (Ex.1 + B1)**  
 
-<div style="background-color:#E8F5E9; padding:12px; border-radius:6px; margin-bottom:10px;">
-<strong>🕒 09:00 – 09:45 | S.2 | Baktash Amini</strong><br>
-<em>Regression Models and Performance Metrics</em>
-</div>
+- **09:00 – 09:45 (S.2) | Baktash Amini**  
+  *Regression Models and Performance Metrics*  
 
-<div style="background-color:#FFF3E0; padding:12px; border-radius:6px; margin-bottom:10px;">
-<strong>🕒 09:45 – 10:30 | Exercises + Breakout (Ex.2 + B2)</strong>
-</div>
+- **09:45 – 10:30 | Exercises + Breakout (Ex.2 + B2)**  
 
-<div style="background-color:#FFFDE7; padding:12px; border-radius:6px; margin-bottom:10px;">
-<strong>🕒 10:30 – 11:30 | Lunch Break</strong>
-</div>
+- **10:30 – 11:30 | Lunch Break**  
 
-<!-- Day 2 continues similarly with colored boxes... -->
+- **11:30 – 12:15 (S.3) | Ramazan Ali Bahrami**  
+  *Unsupervised Learning:* Clustering with k-Means  
+
+- **12:15 – 13:00 | Exercises + Breakout (Ex.3 + B3)**  
+
+- **13:00 – 13:45 (S.4) | Layla Kalhor**  
+  *Introduction to Neural Networks*  
+
+- **13:45 – 14:30 | Exercises + Breakout (Ex.4 + B4)**  
+
+---
+
+### **Day 3 – Wednesday, 1 October 2025**  
+**Focus:** Applications of ML in Physics  
+
+- **07:30 – 08:30 | Leila Kalhor (In Farsi)**  
+  *AI Meets the Dark Universe*  
+
+- **08:45 – 09:45 | Thomas Stevenson (In English)**  
+  *TBA, Particle Physics*  
+
+- **10:00 – 11:00 | Stephen Serjeant (In English)**  
+  *TBA*  
+
+- **11:15 – 12:15 | Nayara Fonseca (In English)**  
+  *TBA*  
+
+- **13:00 – 14:00 | Sadegh Raeisi (In Farsi)**  
+  *Application of ML in Physics*  
+
+- **14:15 – 15:15 | Sultan Hassan (In English)**  
+  *TBA, Computational Astrophysics, Cosmology, ML, Bayesian Methods*  
 
 ---
 
