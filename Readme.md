@@ -28,7 +28,7 @@ You can run all notebooks directly in **Google Colab** without installing anythi
 | Time (CET/CEST) | Lecturer | Topic | Language | Notebook |
 | ----- | ----- | ----- | ----- | ----- |
 | 07:15 – 07:30 | Opening Session | Welcome and Workshop Overview | Farsi/English | - |
-| 07:30 – 08:15 | [Ramazan Ali Bahrami](https://scholar.google.com/citations?user=UqavfP8AAAAJ) | Fundamentals of Python Programming | Farsi | [![Open Notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zainabnazari/PWF_workshop_python_notebook/blob/main/Day1/Day1-Session1.ipynb) |
+| 07:30 – 08:15 | [Ramazan Ali Bahrami](https://scholar.google.com/citations?user=O0phq90AAAAJ&hl=en) | Fundamentals of Python Programming | Farsi | [![Open Notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zainabnazari/PWF_workshop_python_notebook/blob/main/Day1/Day1-Session1.ipynb) |
 | 08:15 – 09:00 | | Exercises & Breakout | Farsi | - |
 | 09:00 – 09:45 | [Carl Stermann-Lücke](https://www.linkedin.com/in/carl-stermann-luecke) | Essential Libraries for Data Manipulation and Analysis with NumPy and Pandas | English | [![Open Notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zainabnazari/PWF_workshop_python_notebook/blob/main/Day1/Day1-Session2.ipynb) |
 | 09:45 – 10:30 | | Exercises & Breakout | English | - |
@@ -50,7 +50,7 @@ You can run all notebooks directly in **Google Colab** without installing anythi
 | 09:00 – 09:45 | [Baktash Amini](https://www.linkedin.com/in/baktash-amini) | Regression Models and Evaluation Metrics | Farsi | [![Open Notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zainabnazari/PWF_workshop_python_notebook/blob/main/Day2/Day2-Session2.ipynb) |
 | 09:45 – 10:30 | | Exercises & Breakout | Farsi | - |
 | 10:30 – 11:30 | | **Lunch Break** | - | - |
-| 11:30 – 12:15 | [Ramazan Ali Bahrami](https://scholar.google.com/citations?user=UqavfP8AAAAJ) | Unsupervised Learning: Clustering with k-Means | Farsi | [![Open Notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zainabnazari/PWF_workshop_python_notebook/blob/main/Day2/Day2-Session3.ipynb) |
+| 11:30 – 12:15 | [Ramazan Ali Bahrami](https://scholar.google.com/citations?user=O0phq90AAAAJ&hl=en) | Unsupervised Learning: Clustering with k-Means | Farsi | [![Open Notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zainabnazari/PWF_workshop_python_notebook/blob/main/Day2/Day2-Session3.ipynb) |
 | 12:15 – 13:00 | | Exercises & Breakout | Farsi | - |
 | 13:00 – 13:45 | [Leila Kalhor](https://scholar.google.com/citations?user=7guc7bAAAAAJ) | Introduction to Neural Networks | Farsi | [![Open Notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zainabnazari/PWF_workshop_python_notebook/blob/main/Day2/Day2-Session4.ipynb) |
 | 13:45 – 14:30 | | Exercises & Breakout | Farsi | - |
