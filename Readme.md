@@ -47,7 +47,7 @@ You can run all notebooks directly in **Google Colab** without installing anythi
 | ----- | ----- | ----- | ----- | ----- |
 | 07:30 – 08:15 | [Zainab Nazari](https://zainabnazari.github.io/) | Supervised Learning: A Practical Approach to Classification with k-NN and Decision Trees | Farsi | [![Open Notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zainabnazari/PWF_workshop_python_notebook/blob/main/Day2/Day2-Session1.ipynb) |
 | 08:15 – 09:00 | | Exercises & Breakout | Farsi | - |
-| 09:00 – 09:45 | [Baktash Amini](https://www.linkedin.com/in/baktash-amini) | Regression Models and Evaluation Metrics | Farsi | [![Open Notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zainabnazari/PWF_workshop_python_notebook/blob/main/Day2/Day2-Session2.ipynb) |
+| 09:00 – 09:45 | [Baktash Amini](https://www.linkedin.com/in/baktash-amini-b448a9144/) | Regression Models and Evaluation Metrics | Farsi | [![Open Notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zainabnazari/PWF_workshop_python_notebook/blob/main/Day2/Day2-Session2.ipynb) |
 | 09:45 – 10:30 | | Exercises & Breakout | Farsi | - |
 | 10:30 – 11:30 | | **Lunch Break** | - | - |
 | 11:30 – 12:15 | [Ramazan Ali Bahrami](https://scholar.google.com/citations?user=O0phq90AAAAJ&hl=en) | Unsupervised Learning: Clustering with k-Means | Farsi | [![Open Notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zainabnazari/PWF_workshop_python_notebook/blob/main/Day2/Day2-Session3.ipynb) |
