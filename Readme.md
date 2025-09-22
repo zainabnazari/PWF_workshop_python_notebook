@@ -47,13 +47,13 @@ This repository contains the foundational materials, code examples, and exercise
 
 | Time (CET/CEST) | Speaker | Topic | Language | Notebook |
 | ----- | ----- | ----- | ----- | ----- |
-| 07:30 – 08:30 | Leila Kalhor | AI Meets the Dark Universe | Farsi | [Notebook](URL) |
-| 08:45 – 09:45 | Thomas Stevenson | Particle Physics (Title TBA) | English | - |
-| 10:00 – 11:00 | Stephen Serjeant | Topic TBA | English | - |
-| 11:15 – 12:15 | Nayara Fonseca | Topic TBA | English | - |
+| 07:30 – 08:30 | Leila Kalhor | AI Meets the Dark Universe | Farsi | [Slide](URL) |
+| 08:45 – 09:45 | Thomas Stevenson | Particle Physics (Title TBA) | English | [Slide](URL) |
+| 10:00 – 11:00 | Stephen Serjeant | Topic TBA | English | [Slide](URL) |
+| 11:15 – 12:15 | Nayara Fonseca | Topic TBA | English | [Slide](URL) |
 | 12:15 – 13:00 | | **Lunch Break** | - | - |
-| 13:00 – 14:00 | Sadegh Raeisi | Applications of Machine Learning in Physics | Farsi | [Notebook](URL) |
-| 14:15 – 15:15 | Sultan Hassan | Computational Astrophysics, Cosmology, Machine Learning, and Bayesian Methods (Title TBA) | English | - |
+| 13:00 – 14:00 | Sadegh Raeisi | Applications of Machine Learning in Physics | Farsi | [Slide](URL) |
+| 14:15 – 15:15 | Sultan Hassan | Computational Astrophysics, Cosmology, Machine Learning, and Bayesian Methods (Title TBA) | English | [Slide](URL) |
 
 ## Acknowledgements
 
