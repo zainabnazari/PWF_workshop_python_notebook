@@ -15,14 +15,14 @@ This repository contains the foundational materials, code examples, and exercise
 | Time (CET/CEST) | Lecturer | Topic | Language | Notebook |
 | ----- | ----- | ----- | ----- | ----- |
 | 07:15 – 07:30 | Opening Session | Welcome and Workshop Overview | Farsi/English | - |
-| 07:30 – 08:15 | Ramazan Ali Bahrami | **Session 1:** Fundamentals of Python Programming | Farsi | [Notebook](https://github.com/zainabnazari/PWF_workshop_python_notebook/blob/main/Day1/Day1-Session1.ipynb) |
+| 07:30 – 08:15 | Ramazan Ali Bahrami | Fundamentals of Python Programming | Farsi | [Notebook](https://github.com/zainabnazari/PWF_workshop_python_notebook/blob/main/Day1/Day1-Session1.ipynb) |
 | 08:15 – 09:00 | | Exercises & Breakout  | Farsi | - |
-| 09:00 – 09:45 | Carl Stermann-Lücke | **Session 2:** Essential Libraries for Data Manipulation and Analysis with NumPy and Pandas | English | [Notebook](https://github.com/zainabnazari/PWF_workshop_python_notebook/blob/main/Day1/Day1-Session2.ipynb) |
+| 09:00 – 09:45 | Carl Stermann-Lücke |  Essential Libraries for Data Manipulation and Analysis with NumPy and Pandas | English | [Notebook](https://github.com/zainabnazari/PWF_workshop_python_notebook/blob/main/Day1/Day1-Session2.ipynb) |
 | 09:45 – 10:30 | | Exercises & Breakout  | English | - |
 | 10:30 – 11:30 | | **Lunch Break** | - | - |
-| 11:30 – 12:15 | Mohammad Eqbal Balaghi | **Session 3:** Principles of Data Visualization with Matplotlib and Seaborn | Farsi | [Notebook](https://github.com/zainabnazari/PWF_workshop_python_notebook/blob/main/Day1/Day1-Session3.ipynb) |
+| 11:30 – 12:15 | Mohammad Eqbal Balaghi |  Principles of Data Visualization with Matplotlib and Seaborn | Farsi | [Notebook](https://github.com/zainabnazari/PWF_workshop_python_notebook/blob/main/Day1/Day1-Session3.ipynb) |
 | 12:15 – 13:00 | | Exercises & Breakout  | Farsi | - |
-| 13:00 – 13:45 | Anirban Roy | **Session 4:** An Introduction to Machine Learning with Scikit-learn | English | [Notebook](https://github.com/zainabnazari/PWF_workshop_python_notebook/blob/main/Day1/Day1-Session4.ipynb) |
+| 13:00 – 13:45 | Anirban Roy | An Introduction to Machine Learning with Scikit-learn | English | [Notebook](https://github.com/zainabnazari/PWF_workshop_python_notebook/blob/main/Day1/Day1-Session4.ipynb) |
 | 13:45 – 14:30 | | Exercises & Breakout  | English | - |
 
 ### **Day 2: Tuesday, 30 September 2025**
@@ -31,14 +31,14 @@ This repository contains the foundational materials, code examples, and exercise
 
 | Time (CET/CEST) | Lecturer | Topic | Language | Notebook |
 | ----- | ----- | ----- | ----- | ----- |
-| 07:30 – 08:15 | Zainab Nazari | **Session 1:** Supervised Learning: A Practical Approach to Classification with k-NN and Decision Trees | Farsi | [Notebook](https://github.com/zainabnazari/PWF_workshop_python_notebook/blob/main/Day2/Day2-Session1.ipynb) |
+| 07:30 – 08:15 | Zainab Nazari | Supervised Learning: A Practical Approach to Classification with k-NN and Decision Trees | Farsi | [Notebook](https://github.com/zainabnazari/PWF_workshop_python_notebook/blob/main/Day2/Day2-Session1.ipynb) |
 | 08:15 – 09:00 | | Exercises & Breakout  | Farsi | - |
-| 09:00 – 09:45 | Baktash Amini | **Session 2:** Regression Models and Evaluation Metrics | Farsi | [Notebook](https://github.com/zainabnazari/PWF_workshop_python_notebook/blob/main/Day2/Day2-Session2.ipynb) |
+| 09:00 – 09:45 | Baktash Amini |  Regression Models and Evaluation Metrics | Farsi | [Notebook](https://github.com/zainabnazari/PWF_workshop_python_notebook/blob/main/Day2/Day2-Session2.ipynb) |
 | 09:45 – 10:30 | | Exercises & Breakout  | Farsi | - |
 | 10:30 – 11:30 | | **Lunch Break** | - | - |
-| 11:30 – 12:15 | Ramazan Ali Bahrami | **Session 3:** Unsupervised Learning: Clustering with k-Means | Farsi | [Notebook](https://github.com/zainabnazari/PWF_workshop_python_notebook/blob/main/Day2/Day2-Session3.ipynb) |
+| 11:30 – 12:15 | Ramazan Ali Bahrami |  Unsupervised Learning: Clustering with k-Means | Farsi | [Notebook](https://github.com/zainabnazari/PWF_workshop_python_notebook/blob/main/Day2/Day2-Session3.ipynb) |
 | 12:15 – 13:00 | | Exercises & Breakout  | Farsi | - |
-| 13:00 – 13:45 | Leila Kalhor | **Session 4:** Introduction to Neural Networks | Farsi | [Notebook](https://github.com/zainabnazari/PWF_workshop_python_notebook/blob/main/Day2/Day2-Session4.ipynb) |
+| 13:00 – 13:45 | Leila Kalhor | Introduction to Neural Networks | Farsi | [Notebook](https://github.com/zainabnazari/PWF_workshop_python_notebook/blob/main/Day2/Day2-Session4.ipynb) |
 | 13:45 – 14:30 | | Exercises & Breakout | Farsi | - |
 
 ### **Day 3: Wednesday, 1 October 2025**
