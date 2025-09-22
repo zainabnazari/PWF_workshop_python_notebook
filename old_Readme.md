@@ -1,24 +1,15 @@
-<p align="center">
-  <img src="images/workshop-logo.png" alt="Workshop Logo" width="250"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.7-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zoom-Online-purple?style=for-the-badge&logo=zoom&logoColor=white"/>
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
-</p>
-
-# 🌟 ICTP Physics Without Frontiers – Online Machine Learning Workshop 🌟  
-
-**📅 Dates:** 29 September – 1 October 2025  
-**💻 Format:** Online (via Zoom)  
-**⏰ Time Zone Reference:**  
+![Python](https://img.shields.io/badge/python-3.7-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+# ICTP Physics Without Frontiers – Online Machine Learning Workshop  
+**Dates:** 29 September – 1 October 2025  
+**Format:** Online (via Zoom)  
+**Time Zone Reference:**  
 - **Central European Time (CET/CEST, Rome):** 07:15 – 14:30  
 - **Afghanistan Time (AFT, Kabul):** 09:45 – 17:00  
 
 ---
 
-## 🗓️ Schedule Overview  
+## 📅 Schedule Overview  
 
 ### **Day 1 – Monday, 29 September 2025**  
 **Focus:** Python Foundations & Data Handling  
@@ -77,35 +68,34 @@
 ---
 
 ### **Day 3 – Wednesday, 1 October 2025**  
-**Focus:** Applications of ML in Physics  
+**Focus:** Applications of ML in Physics
 
-- **07:30 – 08:30 | Leila Kalhor (In Farsi)**  
-  *AI Meets the Dark Universe*  
 
-- **08:45 – 09:45 | Thomas Stevenson (In English)**  
-  *TBA, Particle Physics*  
+- **In Farsi: 07:30 – 08:30 | Leila Kalhor (Confirmed)**
 
-- **10:00 – 11:00 | Stephen Serjeant (In English)**  
-  *TBA*  
+ *AI Meets the Dark Universe*
 
-- **11:15 – 12:15 | Nayara Fonseca (In English)**  
-  *TBA*  
+- **In English: 08:45 – 09:45 | Thomas Stevenson (Confirmed)**
 
-- **13:00 – 14:00 | Sadegh Raeisi (In Farsi)**  
+  *TBA, Particle Physics*
+
+- **In English: 10:00 – 11:00 | Stephen Serjeant (Confirmed))**
+
+  *TBA*
+
+- **In English: 11:15 – 12:15 | Nayara Fonseca (Confirmed)**  
+  *TBA*
+
+- **In Farsi: 13:00 – 14:00 | Sadegh Raeisi (Confirmed)**  
   *Application of ML in Physics*  
 
-- **14:15 – 15:15 | Sultan Hassan (In English)**  
-  *TBA, Computational Astrophysics, Cosmology, ML, Bayesian Methods*  
+- **In English: 14:15 – 15:15 | Sultan Hassan (Confirmed)**  
+  *TBA, Computational Astrophysics Cosmology Machine Learning Bayesian*  
+
+
 
 ---
 
 ## 🙏 Acknowledgements
 This workshop is organized under the **ICTP Physics Without Frontiers program** with contributions from dedicated volunteers and researchers. Our goal is to provide accessible training in Python, machine learning, and their applications to physics for students in Afghanistan.  
-
-<p align="center">
-  <img src="images/ictp-logo.png" alt="ICTP Logo" width="150"/>
-  <img src="images/partner-logo.png" alt="Partner Logo" width="150"/>
-</p>
-
-For any questions, please contact: [nazari.zainab@gmail.com](mailto:nazari.zainab@gmail.com)
-
+Any questions please write to nazari.zainab@gmail.com.
