@@ -56,6 +56,6 @@ This repository contains the foundational materials, code examples, and exercise
 
 ## Acknowledgements
 
-This workshop is a collaborative initiative organized under the **ICTP Physics Without Frontiers** program. We extend our sincere gratitude to all invited speakers and dedicated volunteers whose expertise and commitment made this educational opportunity possible. This program is dedicated to empowering students in Afghanistan with accessible training in the critical fields of Python and machine learning, with a specific focus on their applications in scientific research.
+This workshop is a collaborative initiative organized under the **ICTP Physics Without Frontiers** program. We extend our sincere gratitude to all invited speakers and dedicated volunteers whose expertise and commitment made this educational opportunity possible. This program is dedicated to empowering students in Afghanistan with accessible training in the critical fields of Python and machine learning, with a specific focus on their applications in Physics.
 
 For any inquiries, please contact Dr. Zainab Nazari at `nazari.zainab@gmail.com`.
