@@ -14,16 +14,16 @@ This repository contains the foundational materials, code examples, and exercise
 
 | Time (CET/CEST) | Speaker | Topic | Language |
 | ----- | ----- | ----- | ----- |
-| 07:15 – 07:30 | Opening Session | Welcome and Workshop Overview | English |
+| 07:15 – 07:30 | Opening Session | Welcome and Workshop Overview | Farsi/English |
 | 07:30 – 08:15 | Ramazan Ali Bahrami | **Session 1:** Fundamentals of Python Programming | Farsi |
 | 08:15 – 09:00 | | Exercises & Breakout Session 1 | Farsi |
 | 09:00 – 09:45 | Carl Stermann-Lücke | **Session 2:** Essential Libraries for Data Manipulation and Analysis with NumPy and Pandas | English |
 | 09:45 – 10:30 | | Exercises & Breakout Session 2 | English |
 | 10:30 – 11:30 | | **Lunch Break** | - |
 | 11:30 – 12:15 | Mohammad Eqbal Balaghi | **Session 3:** Principles of Data Visualization with Matplotlib and Seaborn | Farsi |
-| 12:15 – 13:00 | | Exercises & Breakout Session 3 | English |
+| 12:15 – 13:00 | | Exercises & Breakout Session 3 | Farsi |
 | 13:00 – 13:45 | Anirban Roy | **Session 4:** An Introduction to Machine Learning with Scikit-learn | English |
-| 13:45 – 14:30 | | Exercises & Breakout Session 4 | Farsi |
+| 13:45 – 14:30 | | Exercises & Breakout Session 4 | English |
 
 ### **Day 2: Tuesday, 30 September 2025**
 
@@ -33,7 +33,7 @@ This repository contains the foundational materials, code examples, and exercise
 | ----- | ----- | ----- | ----- |
 | 07:30 – 08:15 | Zainab Nazari | **Session 1:** Supervised Learning: A Practical Approach to Classification with k-NN and Decision Trees | Farsi |
 | 08:15 – 09:00 | | Exercises & Breakout Session 1 | Farsi |
-| 09:00 – 09:45 | Baktash Amini | **Session 2:** Regression Models and Evaluation Metrics | English |
+| 09:00 – 09:45 | Baktash Amini | **Session 2:** Regression Models and Evaluation Metrics | Farsi |
 | 09:45 – 10:30 | | Exercises & Breakout Session 2 | Farsi |
 | 10:30 – 11:30 | | **Lunch Break** | - |
 | 11:30 – 12:15 | Ramazan Ali Bahrami | **Session 3:** Unsupervised Learning: Clustering with k-Means | English |
