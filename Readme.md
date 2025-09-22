@@ -38,7 +38,7 @@ This repository contains the foundational materials, code examples, and exercise
 | 10:30 – 11:30 | | **Lunch Break** |
 | 11:30 – 12:15 | Ramazan Ali Bahrami | **Session 3:** Unsupervised Learning: Clustering with k-Means |
 | 12:15 – 13:00 | | Exercises & Breakout Session 3 |
-| 13:00 – 13:45 | Layla Kalhor | **Session 4:** Introduction to Neural Networks |
+| 13:00 – 13:45 | Leila Kalhor | **Session 4:** Introduction to Neural Networks |
 | 13:45 – 14:30 | | Exercises & Breakout Session 4 |
 
 ### **Day 3: Wednesday, 1 October 2025**
