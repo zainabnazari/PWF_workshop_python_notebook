@@ -64,11 +64,11 @@ You can run all notebooks directly in **Google Colab** without installing anythi
 | ----- | ----- | ----- | ----- | ----- |
 | 07:30 – 08:30 | [Leila Kalhor](https://scholar.google.com/citations?user=TA5ccTEAAAAJ&hl=en) | AI Meets the Dark Universe | Farsi | [Slide](URL) |
 | 08:45 – 09:45 | [Thomas Stevenson](https://profiles.sussex.ac.uk/p452244-thomas-stevenson) | Machine Learning in Collider Particle Physics | English | [Slide](URL) |
-| 10:00 – 11:00 | [Stephen Serjeant](https://stephenserjeant.github.io/) | Topic TBA | English | [Slide](URL) |
-| 11:15 – 12:15 | [Nayara Fonseca](https://www.nayarafonseca.com/) | Topic TBA | English | [Slide](URL) |
+| 10:00 – 11:00 | [Stephen Serjeant](https://stephenserjeant.github.io/) | Machine learning / AI in astronomy | English | [Slide](URL) |
+| 11:15 – 12:15 | [Nayara Fonseca](https://www.nayarafonseca.com/) | Large Language Model Debate for Scientific Decisions: A Particle Physics Prototype| English | [Slide](URL) |
 | 12:15 – 13:00 | | **Lunch Break** | - | - |
 | 13:00 – 14:00 | [Sadegh Raeisi](https://sharif.edu/~sraeisi/) | Applications of Machine Learning in Physics | Farsi | [Slide](URL) |
-| 14:15 – 15:15 | [Sultan Hassan](https://sultan-hassan.github.io/) | Computational Astrophysics, Cosmology, Machine Learning, and Bayesian Methods (Title TBA) | English | [Slide](URL) |
+| 14:15 – 15:15 | [Sultan Hassan](https://sultan-hassan.github.io/) | Application of Machine Learning in Astrophysics | English | [Slide](URL) |
 
 ---
 
