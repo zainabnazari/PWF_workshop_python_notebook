@@ -1,5 +1,7 @@
 # ICTP Physics Without Frontiers – Online Machine Learning Workshop  
 
+The full/updated Program schedule and materials can be found [here](https://zainabnazari.github.io/PWF_workshop_python_notebook/) 
+
 **Dates:** 29 September – 1 October 2025  
 **Format:** Online via Zoom  
 **Reference Time Zone:** Central European Time (CET/CEST), Rome  
